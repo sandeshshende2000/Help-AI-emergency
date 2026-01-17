@@ -1,0 +1,9 @@
+{
+  "name": "HELP - Emergency Safety App",
+  "description": "A professional emergency and safety assistance app designed for quick help during accidents or urgent situations, featuring voice activation and emergency contacts.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
